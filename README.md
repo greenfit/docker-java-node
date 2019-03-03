@@ -1,7 +1,7 @@
 # docker-java-node
 docker镜像文件，在操作系统 alpine 基础上使用 openJDK 的 jre8 和 node 的镜像。
 
-[docker-hub]([路径](https://hub.docker.com/r/kissaoe/java-node-alpine))
+[docker-hub](https://hub.docker.com/r/kissaoe/java-node-alpine)
 
 # 使用方式
 
